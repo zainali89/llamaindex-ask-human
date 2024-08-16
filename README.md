@@ -11,7 +11,7 @@ To run a demo, follow these steps:
    ```
 2. Navigate to the desired demo folder:
    ```
-   cd chainlit-cookbook/llamaindex-ask-human
+   cd /llamaindex-ask-human
    ```
 3. Install the required dependencies:
    ```
