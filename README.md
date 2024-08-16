@@ -24,7 +24,7 @@ To run a demo, follow these steps:
    Modify the `.env` file as needed to include any necessary API keys or configuration settings.
 5. Run the Chainlit app in watch mode:
    ```
-   chainlit run app.py -w
+   chainlit run app_llamaindex.py -w
    ```
 
 Your demo chatbot UI should now be up and running in your browser!
