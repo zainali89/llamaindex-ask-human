@@ -1,6 +1,5 @@
-# Chainlit Cookbook
-
-Welcome to the Chainlit Demos repository! Here you'll find a collection of example projects demonstrating how to use Chainlit to create amazing chatbot UIs with ease. Each folder in this repository represents a separate demo project.
+# Ask-Human Chatbot
+Welcome to the Ask-Human Chatbot Demo repository!
 
 ## 🚀 Getting Started
 
